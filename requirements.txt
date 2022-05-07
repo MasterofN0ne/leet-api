@@ -1,0 +1,7 @@
+click
+requests
+pymongo
+python-dotenv
+passlib
+flask
+dnspython
